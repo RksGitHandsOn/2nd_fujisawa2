@@ -1,7 +1,7 @@
 # 2nd_fujisawa2
 1
 2
-3
+three
 4
 5
 
